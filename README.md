@@ -1,16 +1,36 @@
 # ai_ml_learn
 
-A new Flutter project.
+# 💖 A Playful Flutter UI Experiment
 
-## Getting Started
+> A Flutter UI that already knows your answer 💫  
+> Try clicking **“No”**… if you can 😈
 
-This project is a starting point for a Flutter application.
+This project is a fun and interactive Flutter application built to showcase **playful UI behavior, animations, and user interaction**.  
+A simple question turns into a delightful experience — where saying *Yes* is celebrated 🎉 and saying *No* is almost impossible 😉
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## ✨ Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 🎉 Confetti animation on acceptance
+- 😈 A “No” button that escapes every interaction
+- 💕 Soft, romantic UI with smooth animations
+- 🖼️ Background image support
+- 📱 Responsive design (Mobile & Web)
+- 🧠 Clean and beginner-friendly Flutter code
+
+---
+
+## 🛠️ Tech Stack
+
+- **Flutter**
+- **Dart**
+- **confetti** package
+
+
+## 🚀 Getting Started
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/SusmitaSen681/valentine_gift_susmita.git
+
